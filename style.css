@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: #ffe81f;
+    font-size: 5vw;
+    font-weight: 900;
+    text-align: center;
+  }
+  p{
+    color: #ffffff;
+    font-size: 24px;
+  }
+  initialtext{
+    color: #ffffff;
+    font-size: 24px;
+    margin-left: 10%;
+  }
