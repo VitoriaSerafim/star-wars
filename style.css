@@ -8,6 +8,13 @@ body {
     font-weight: 900;
     text-align: center;
   }
+  h2 {
+    color: #ffe81f;
+    font-weight: 900;
+    text-align: center;
+    font-size: 3vw;
+    margin-top: 20vh;
+  }
   p{
     color: #ffffff;
     font-size: 24px;
@@ -16,4 +23,13 @@ body {
     color: #ffffff;
     font-size: 24px;
     margin-left: 10%;
+  }
+  box1{
+    height: fit-content;
+    display: flow;
+  }
+  ul{
+    color: #ffe81f;
+    margin-left: 25vw;
+    font-size: 28px;
   }
